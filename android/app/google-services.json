@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780709795280",
+    "project_id": "newsshorts-d87ca",
+    "storage_bucket": "newsshorts-d87ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780709795280:android:3c5f1779a61efabc3a55d5",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlf8wia62jD0OMjWAyiSqLN5NmEAICI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
